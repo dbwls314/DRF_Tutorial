@@ -383,6 +383,3 @@ zsdoc/data
 
 __pycache__/
 .__pycache__/
-__init__/
-.__init__/
-.gitignore
